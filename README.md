@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Giska229
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in data analysis
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on html/css/js projects
+- 💞️ I’m looking to collaborate on EDA/Web scraping/data cleaning/sentiment analysis/data visualization projects
 - 📫 My email is regisgangbo95@gmail.com
 
 <!---
